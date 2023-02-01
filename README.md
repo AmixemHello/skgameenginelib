@@ -1,4 +1,4 @@
-# skgameenginelib
+# Sketchware Game Engine Libary
 Sketchware Game Engine Libary
 
 The official (or non-official) Sketchware Game Engine Libary.
