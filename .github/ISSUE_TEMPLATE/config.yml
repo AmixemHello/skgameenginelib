@@ -7,3 +7,6 @@ contact_links:
   - name: GitHub Security Bug Bounty
     url: https://bounty.github.com/
     about: Please report security vulnerabilities here.
+  - name: Modified Lib Security Checker
+    url: https://bounty.github.com/
+    about: Check for vulnerabilities in your edited SKGE lib.
